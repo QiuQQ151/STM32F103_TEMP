@@ -252,6 +252,7 @@ u8 thermometer_app(void)   //ÎÂÊª¶È½çÃæ
 				{  // buzzer_arl
 					Draw_Circle(225,15,RED,3,1);
 					delay_ms(50);
+					
 					buzzer_off;
 				}
 		}
