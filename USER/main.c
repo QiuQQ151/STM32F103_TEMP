@@ -14,7 +14,7 @@
 
  
 int main(void)
-{   // 启动系统计时器
+{   // 启动系统计时器 72
 	SysTick_Init(72);	
 	//将全部优先级设为抢占优先级
 	NVIC_PriorityGroupConfig(NVIC_PriorityGroup_4);
