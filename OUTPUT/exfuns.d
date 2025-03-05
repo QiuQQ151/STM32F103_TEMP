@@ -1,0 +1,45 @@
+..\output\exfuns.o: ..\MIDWARE\FATFS\exfuns\exfuns.c
+..\output\exfuns.o: C:\Program Files\Keil5\ARM\ARMCC\Bin\..\include\string.h
+..\output\exfuns.o: ..\MIDWARE\FATFS\exfuns\exfuns.h
+..\output\exfuns.o: ..\DRIVER\CMSIS\stm32f10x.h
+..\output\exfuns.o: ..\DRIVER\CMSIS\core_cm3.h
+..\output\exfuns.o: C:\Program Files\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\exfuns.o: ..\DRIVER\CMSIS\system_stm32f10x.h
+..\output\exfuns.o: ..\DRIVER\FWLIB\stm32f10x_conf.h
+..\output\exfuns.o: ..\DRIVER\FWLIB\inc\stm32f10x_adc.h
+..\output\exfuns.o: ..\DRIVER\CMSIS\stm32f10x.h
+..\output\exfuns.o: ..\DRIVER\FWLIB\inc\stm32f10x_bkp.h
+..\output\exfuns.o: ..\DRIVER\FWLIB\inc\stm32f10x_can.h
+..\output\exfuns.o: ..\DRIVER\FWLIB\inc\stm32f10x_cec.h
+..\output\exfuns.o: ..\DRIVER\FWLIB\inc\stm32f10x_crc.h
+..\output\exfuns.o: ..\DRIVER\FWLIB\inc\stm32f10x_dac.h
+..\output\exfuns.o: ..\DRIVER\FWLIB\inc\stm32f10x_dbgmcu.h
+..\output\exfuns.o: ..\DRIVER\FWLIB\inc\stm32f10x_dma.h
+..\output\exfuns.o: ..\DRIVER\FWLIB\inc\stm32f10x_exti.h
+..\output\exfuns.o: ..\DRIVER\FWLIB\inc\stm32f10x_flash.h
+..\output\exfuns.o: ..\DRIVER\FWLIB\inc\stm32f10x_fsmc.h
+..\output\exfuns.o: ..\DRIVER\FWLIB\inc\stm32f10x_gpio.h
+..\output\exfuns.o: ..\DRIVER\FWLIB\inc\stm32f10x_i2c.h
+..\output\exfuns.o: ..\DRIVER\FWLIB\inc\stm32f10x_iwdg.h
+..\output\exfuns.o: ..\DRIVER\FWLIB\inc\stm32f10x_pwr.h
+..\output\exfuns.o: ..\DRIVER\FWLIB\inc\stm32f10x_rcc.h
+..\output\exfuns.o: ..\DRIVER\FWLIB\inc\stm32f10x_rtc.h
+..\output\exfuns.o: ..\DRIVER\FWLIB\inc\stm32f10x_sdio.h
+..\output\exfuns.o: ..\DRIVER\FWLIB\inc\stm32f10x_spi.h
+..\output\exfuns.o: ..\DRIVER\FWLIB\inc\stm32f10x_tim.h
+..\output\exfuns.o: ..\DRIVER\FWLIB\inc\stm32f10x_usart.h
+..\output\exfuns.o: ..\DRIVER\FWLIB\inc\stm32f10x_wwdg.h
+..\output\exfuns.o: ..\DRIVER\FWLIB\inc\misc.h
+..\output\exfuns.o: ..\MIDWARE\FATFS\source\ff.h
+..\output\exfuns.o: ..\MIDWARE\FATFS\source\ffconf.h
+..\output\exfuns.o: ..\MIDWARE\FATFS\exfuns\fattester.h
+..\output\exfuns.o: ..\MIDWARE\FreeRTOS\include\FreeRTOS.h
+..\output\exfuns.o: C:\Program Files\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\exfuns.o: ..\MIDWARE\FreeRTOS\FreeRTOSConfig.h
+..\output\exfuns.o: ..\MIDWARE\FreeRTOS\include\projdefs.h
+..\output\exfuns.o: ..\MIDWARE\FreeRTOS\include\portable.h
+..\output\exfuns.o: ..\MIDWARE\FreeRTOS\include\deprecated_definitions.h
+..\output\exfuns.o: ..\MIDWARE\FreeRTOS\portable\RVDS\ARM_CM3\portmacro.h
+..\output\exfuns.o: ..\MIDWARE\FreeRTOS\include\mpu_wrappers.h
+..\output\exfuns.o: ..\MIDWARE\FreeRTOS\include\task.h
+..\output\exfuns.o: ..\MIDWARE\FreeRTOS\include\list.h
